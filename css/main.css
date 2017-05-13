@@ -40,8 +40,16 @@ h1 {
 
 .photo {
   box-shadow: 3px 3px 10px rgba(0, 0, 0, .2);
-  border-top: 8px solid #4a4a4a;
-  border-bottom: 8px solid #4a4a4a;
+  border-top: 12px solid #ff4a4a;
+  border-bottom: 12px solid #4a4aff;
+  max-width: 800px;
+  margin: 0 auto 28px auto;
+}
+
+.photos {
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, .2);
+  border-top: 20px solid #f14a4a;
+  border-bottom: 20px solid #4a4a1f;
   max-width: 800px;
   margin: 0 auto 28px auto;
 }
